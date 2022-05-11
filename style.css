@@ -1,3 +1,5 @@
+
+
 h1 {
     font-style: italic;
  }
@@ -37,8 +39,15 @@ h1 {
 
 .imagem-container {
     height: 370px;
+    position: relative;
 }
 
 .nome {
     text-align: center;
+}
+.descriçao {
+    position: absolute;
+    top: 40%;
+    right: 5px;
+    font-size: small;
 }
