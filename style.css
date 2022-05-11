@@ -31,6 +31,8 @@ h1 {
 
 #foto {
     float: left;
+    padding: 4px;
+    background-color: red;
 }
 
 .imagem-container {
