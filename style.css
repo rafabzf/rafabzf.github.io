@@ -36,3 +36,7 @@ h1 {
 .imagem-container {
     height: 370px;
 }
+
+.nome {
+    text-align: center;
+}
