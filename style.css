@@ -28,3 +28,11 @@ h1 {
  .habilidade6 {
      font-size: 15px;
  }
+
+#foto {
+    float: left;
+}
+
+.imagem-container {
+    height: 370px;
+}
