@@ -1,0 +1,30 @@
+h1 {
+    font-style: italic;
+ }
+ h2 {
+    font-family: Verdana, Tahoma, sans-serif;
+ }
+ body {
+     background-color: darkkhaki;
+ }
+ #Comunicacao {
+     text-decoration: underline;
+ }
+ .habilidade1 {
+     font-size: 24px;
+ }
+ .habilidade2 {
+     font-size: 22px;
+ }
+ .habilidade3 {
+     font-size: 20px;
+ }
+ .habilidade4 {
+     font-size: 19px;
+ }
+ .habilidade5 {
+     font-size: 16px;
+ }
+ .habilidade6 {
+     font-size: 15px;
+ }
